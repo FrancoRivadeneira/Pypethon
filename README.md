@@ -89,13 +89,13 @@ This work proposes the development of a **multi-body robot** for internal inspec
 
 ## 📁 Project Structure (example)
 
-pipe-inspection-robot/ 
-├── src/ # AI models and control code 
-├── hardware/ # CAD and mechanical drawings 
-├── data/ # Training datasets for defect detection 
-├── images/ # Figures and visual documentation 
-├── docs/ # Paper, presentations 
-└── README.md # Project overview
+- **pipe-inspection-robot/**  
+  - `src/`               - AI models and control code  
+  - `hardware/`          - CAD and mechanical drawings  
+  - `data/`              - Training datasets for defect detection  
+  - `images/`            - Figures and visual documentation  
+  - `docs/`              - Paper, presentations  
+  - `README.md`          - Project overview
 
 
 ---
