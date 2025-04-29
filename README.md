@@ -78,25 +78,6 @@ This work proposes the development of a **multi-body robot** for internal inspec
 
 ---
 
-## 📚 Paper Structure
-
-1. **Introduction**  
-   - Context, motivation, and goals
-
-2. **Design & Methodology**  
-   - Mechanical system for confined movement  
-   - Electronic architecture  
-   - Vision-based defect detection
-
-3. **Testing & Results**  
-   - Field tests, accuracy metrics, and performance analysis
-
-4. **Conclusions & Future Work**  
-   - Summary of findings  
-   - Improvement opportunities (e.g., autonomous navigation, real-time defect mapping)
-
----
-
 ## 🛠 Technologies & Tools
 
 - **Python** with TensorFlow/PyTorch for deep learning  
@@ -108,7 +89,13 @@ This work proposes the development of a **multi-body robot** for internal inspec
 
 ## 📁 Project Structure (example)
 
-pipe-inspection-robot/ ├── src/ # AI models and control code ├── hardware/ # CAD and mechanical drawings ├── data/ # Training datasets for defect detection ├── images/ # Figures and visual documentation ├── docs/ # Paper, presentations └── README.md # Project overview
+pipe-inspection-robot/ 
+├── src/ # AI models and control code 
+├── hardware/ # CAD and mechanical drawings 
+├── data/ # Training datasets for defect detection 
+├── images/ # Figures and visual documentation 
+├── docs/ # Paper, presentations 
+└── README.md # Project overview
 
 
 ---
@@ -120,5 +107,16 @@ Have ideas or want to improve the system? Feel free to fork the repo and submit 
 ---
 
 ## 📑 References
-
-> 📌 The citations (e.g., \cite{...}) should be included in a `references.bib` file or appendix section if this Markdown is used in a documentation generator that supports BibTeX-style references.
+You can cite the project as:
+@article{pypethon2025,
+  title     = {Pypethon: A Multi-Body Robot for Inspection and Defect Detection in Natural Gas Pipelines},
+  author    = {Your Name and Coauthor Name},
+  journal   = {Journal of Intelligent Robotic Systems},
+  year      = {2025},
+  volume    = {XX},
+  number    = {X},
+  pages     = {1--12},
+  doi       = {10.1234/jirs.pypethon2025},
+  url       = {https://doi.org/10.1234/jirs.pypethon2025},
+  publisher = {Springer}
+}
