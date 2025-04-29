@@ -107,7 +107,12 @@ Have ideas or want to improve the system? Feel free to fork the repo and submit 
 ---
 
 ## 📑 References
-You can cite the project as:
+
+> You can cite this paper as follows:
+
+### BibTeX Citation
+
+```bibtex
 @article{pypethon2025,
   title     = {Pypethon: A Multi-Body Robot for Inspection and Defect Detection in Natural Gas Pipelines},
   author    = {Your Name and Coauthor Name},
