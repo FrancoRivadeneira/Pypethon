@@ -1,0 +1,8 @@
+
+train: images/train
+val: images/validation
+
+
+names:
+
+  0: crack
