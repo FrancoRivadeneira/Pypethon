@@ -44,27 +44,10 @@ Regular inspections are crucial to prevent gas leaks and ensure safety. However,
 
 ## 🤖 The Robot – Pypethon
 
-![Pypethon](images/Pypethon_body.png)  
+![Pypethon](media/EnsambleTotalCAD.png)  
 *Figure: Pypethon robot for internal pipe inspection.*
 
----
 
-## 🔍 Related Work
-
-Various inspection robots have been designed to tackle similar challenges:
-
-- Adjustable robots for **8-10 inch pipes** [📄 pipe8in_1, pipe8in_2]  
-- Miniature robots for **confined spaces** [📄 muy_peque]  
-- Endoscopic robots for **gas and water pipelines** [📄 pipegas, pipegas2]  
-- Robots with **corrosion and rust detection** using traditional computer vision [📄 robot_process_corrosion, robot_process_rust]
-
-📈 **Trend toward CNN-based systems**:
-- Traffic sign detection [📄 traffic]  
-- Sugarcane field inspection [📄 sugarcane]  
-- Multi-category object detection [📄 contour]  
-- CNN-based barrel inspection [📄 robot_process_IA]  
-- Gas leak detection using AI [📄 IA_inspection_gas]  
-- Custom CNN for wastewater pipe anomalies [📄 cnn_anormal]
 
 ---
 
@@ -89,7 +72,7 @@ This work proposes the development of a **multi-body robot** for internal inspec
 
 ## 📁 Project Structure (example)
 
-- **pipe-inspection-robot/**  
+- **Pypethon/**  
   - `src/`               - AI models and control code  
   - `hardware/`          - CAD and mechanical drawings  
   - `data/`              - Training datasets for defect detection  
