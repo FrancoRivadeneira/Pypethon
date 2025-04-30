@@ -44,7 +44,7 @@ Regular inspections are crucial to prevent gas leaks and ensure safety. However,
 
 ## 🤖 The Robot – Pypethon
 
-![Pypethon](images/EnsambleTotalCAD.png)  
+![Pypethon](media/EnsambleTotalCAD.png)  
 *Figure: Pypethon robot for internal pipe inspection.*
 
 ---
