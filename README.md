@@ -70,7 +70,7 @@ This work proposes the development of a **multi-body robot** for internal inspec
 
 ---
 
-## 📁 Project Structure (example)
+## 📁 Project Structure
 
 - **Pypethon/**  
   - `src/`               - AI models and control code  
